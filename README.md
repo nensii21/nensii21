@@ -73,7 +73,7 @@ Tech: Python RL
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nensii21&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=nensii21&theme=tokyonight&hide_border=true" />
 </p>
 
 
