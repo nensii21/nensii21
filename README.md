@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nensi Patel</h1>
+<h1 align="center">Hi 👋, I'm Nensi Priyankkumar Patel</h1>
 <h3 align="center">🚀 ML Engineer in Progress | AI Researcher | Open Source Contributor</h3>
 
 <p align="center">
