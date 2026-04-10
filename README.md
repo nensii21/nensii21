@@ -70,8 +70,7 @@ Tech: Python RL
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nensii21&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nensii21&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=nensii21&theme=tokyonight&hide_border=true)
 
 🌍 Let's Connect
 📧 Email: nancypatel016@gmail.com
