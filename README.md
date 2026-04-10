@@ -65,16 +65,23 @@ Tech: TypeScript Frontend
 Reinforcement Learning-based simulation
 Tech: Python RL
 
-🧰 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode" /> <br> <img src="https://skillicons.dev/icons?i=ts" /> </p>
+## 📊 GitHub Stats
 
-📊<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nensii21&theme=tokyo-night" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nensii21&show_icons=true&theme=tokyonight" />
 </p>
 
-🔥 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nensii21&theme=tokyo-night&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nensii21&theme=tokyonight&hide_border=true" />
+</p>
 
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nensii21&theme=tokyo-night" />
+</p>
 
 🌍 Let's Connect
 📧 Email: nancypatel016@gmail.com
