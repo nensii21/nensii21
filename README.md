@@ -65,7 +65,7 @@ Tech: TypeScript Frontend
 Reinforcement Learning-based simulation
 Tech: Python RL
 
-## 📊## 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nensii21&show_icons=true&theme=tokyonight" />
@@ -74,6 +74,7 @@ Tech: Python RL
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nensii21&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## 🔥 Contribution Graph
