@@ -47,41 +47,47 @@ print(me.mindset())
 | sktime | Bug fixes & improvements (ESoC) |
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧩 sktime — Open Source Contribution (ESoC)  
-Contributed to time-series forecasting library by fixing bugs and improving functionality.  
-🔗 https://github.com/sktime/sktime 
+### [sktime — Open Source Contribution (ESoC)](https://github.com/sktime/sktime)
 
-**Tech:** `Python` • `Time Series` • `Open Source`  
+Contributed to a production-grade time series forecasting library by fixing bugs and improving forecasting components.
 
----
-
-### 🔍 Fake News Detection — ML Classification System  
-Detects misinformation using machine learning models.  
-
-**Tech:** `Python` • `NLP` • `Machine Learning`  
+Tech: `Python` • `Time Series` • `Open Source`
 
 ---
 
-### 😊 Mood & Feeling Detection — Emotion Classification  
-Emotion classification system for analyzing user sentiment.  
+### [Contract Risk Negotiation Env — RL Simulation (Meta Competition)](https://github.com/nensii21/contract-risk-env)
 
-**Tech:** `Python` • `Machine Learning`  
+Developed a reinforcement learning environment to model contract negotiation under uncertainty and optimize risk-aware decision-making.
 
----
-
-### 🌐 Multilanguage Web App — Responsive UI  
-Multi-language responsive web application with clean UI.  
-
-**Tech:** `TypeScript` • `Frontend`  
+Tech: `Python` • `Reinforcement Learning` • `MDP` • `Simulation`
 
 ---
 
-### 🧠 Contract Risk Negotiation Env — RL Simulation  
-Reinforcement Learning-based simulation for decision making.  
+### [Fake News Detection — ML Classification System](https://github.com/nensii21/fake-news-detection)
 
-**Tech:** `Python` • `Reinforcement Learning`  
+Built a machine learning pipeline to detect misinformation using NLP techniques and classification models.
+
+Tech: `Python` • `NLP` • `Scikit-learn` • `Machine Learning`
+
+---
+
+### [Mood & Feeling Detection — Emotion Classification System](https://github.com/nensii21/mood-detection)
+
+Designed an emotion classification model to analyze user sentiment from textual input.
+
+Tech: `Python` • `Machine Learning` • `NLP`
+
+---
+
+### [Multilanguage Web App — Responsive Frontend](https://github.com/nensii21/multilanguage-app)
+
+Developed a responsive multilingual web application with scalable frontend architecture.
+
+Tech: `TypeScript` • `Frontend` • `UI/UX`
+
+
 
 
 ## 🛠 Tech Stack
