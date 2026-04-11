@@ -1,77 +1,64 @@
-<h1 align="center">Hi 👋, I'm Nensi Priyankkumar Patel</h1>
-<h3 align="center">🚀 ML Engineer in Progress | AI Researcher | Open Source Contributor</h3>
+<h1 align="center">Hi, I'm Nensi Patel 👋</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=ML+Engineer+in+Progress;AI+Research+Enthusiast;Open+Source+Contributor" />
+</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/nensi-patel-1121n">
-    <img src="https://img.shields.io/badge/LinkedIn-Nensi-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:nancypatel016@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nensii21&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=nensii21&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🔗 About Me
+
+ML Engineer in progress building real-world systems using AI & Machine Learning.  
+Contributor at **sktime (ESoC)** and focused on research-driven solutions.
 
 ```python
 class NensiPatel:
     def __init__(self):
         self.location = "India"
-        self.role = "Engineering Student + ML Engineer in Progress"
-        self.current_focus = [
-            "Research Paper (AI/ML)",
-            "Open Source @ sktime (ESoC)",
-            "Building ML projects with real-world impact"
+        self.focus = [
+            "AI/ML Research",
+            "Open Source @ sktime",
+            "Real-world ML systems"
         ]
-        self.interests = [
-            "Machine Learning",
-            "AI Research",
-            "Data Analysis",
-            "Problem Solving"
-        ]
-        self.stack = ["Python", "SQL", "ML", "Data Visualization"]
+        self.stack = ["Python", "SQL", "ML"]
 
     def mindset(self):
         return "Consistency + Curiosity = Growth 🚀"
 
-me = NensiPatel()
-print(me.mindset())
+🏆 Open Source
+Project	Contribution
+sktime	Bug fixes & improvements (ESoC)
+🚀 Featured Projects
 
-🏆 Open Source & Achievements
-✅ Contributor at sktime (ESoC)
-🔧 Working on real-world ML issues & fixes
-📄 Research paper in progress
-🚀 Actively building & shipping projects
-
-🌟 Featured Projects
 🔍 Fake News Detection
 Detects misinformation using ML models
-Tech: Python NLP ML
 
-🎭 Mood & Feeling Detection
+😊 Mood Detection
 Emotion classification system
-Tech: Python Machine Learning
 
-🌐 Multilanguage Landing Page
-Multi-language responsive web app
-Tech: TypeScript Frontend
+🌐 Multilanguage Web App
+Responsive multilingual UI
 
-🧠 Contract Risk Negotiation Env
-Reinforcement Learning-based simulation
-Tech: Python RL
+🧠 Contract Risk Env
+Reinforcement Learning simulation
 
-## 📊 GitHub Stats
+🛠 Tech Stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nensii21&show_icons=true)
+<br><br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nensii21)
-
+<img src="https://skillicons.dev/icons?i=linux,docker" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nensii21&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=nensii21&theme=tokyonight" /> </p>
 🌍 Let's Connect
-📧 Email: nancypatel016@gmail.com
-💼 LinkedIn: linkedin.com/in/nensi-patel-1121n
-📍 India
+<p align="center"> 📧 nancypatel016@gmail.com <br> 🔗 https://linkedin.com/in/nensi-patel-1121n <br> 📍 India </p> ```
