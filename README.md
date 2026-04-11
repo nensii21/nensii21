@@ -33,7 +33,9 @@ class NensiPatel:
         self.stack = ["Python", "SQL", "ML"]
 
     def mindset(self):
-        return "Consistency + Curiosity = Growth 🚀"
+        return "Consistency + Curiosity = Growth 🚀" ```
+
+
 
 🏆 Open Source
 Project	Contribution
