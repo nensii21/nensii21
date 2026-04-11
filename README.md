@@ -57,7 +57,7 @@ Tech: `Python` • `Time Series` • `Open Source`
 
 ---
 
-### [Contract Risk Negotiation Env — RL Simulation (Meta Competition)](https://github.com/nensii21/contract-risk-env)
+### [Contract Risk Negotiation Env — RL Simulation (Meta Competition)](https://github.com/nensii21/contract-risk-negotiation-env)
 
 Developed a reinforcement learning environment to model contract negotiation under uncertainty and optimize risk-aware decision-making.
 
@@ -81,7 +81,7 @@ Tech: `Python` • `Machine Learning` • `NLP`
 
 ---
 
-### [Multilanguage Web App — Responsive Frontend](https://github.com/nensii21/multilanguage-app)
+### [Multilanguage Web App — Responsive Frontend](https://github.com/nensii21/multilanguage-landingpage)
 
 Developed a responsive multilingual web application with scalable frontend architecture.
 
