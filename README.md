@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nensi Patel 👋</h1>
+<h1 align="center">Hi, I'm Nensi Priyankkumar Patel 👋</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=ML+Engineer+in+Progress;AI+Research+Enthusiast;Open+Source+Contributor" />
@@ -27,40 +27,42 @@ class NensiPatel:
         self.location = "India"
         self.focus = [
             "AI/ML Research",
-            "Open Source @ sktime",
+            "Open Source @ sktime (ESoC)",
             "Real-world ML systems"
         ]
-        self.stack = ["Python", "SQL", "ML"]
+        self.stack = ["Python", "SQL", "Machine Learning"]
 
     def mindset(self):
-        return "Consistency + Curiosity = Growth 🚀" ```
+        return "Consistency + Curiosity = Growth 🚀"
 
+me = NensiPatel()
+print(me.mindset())
 
+```
 
-🏆 Open Source
+🏆 Open Source Contributions
 Project	Contribution
 sktime	Bug fixes & improvements (ESoC)
 🚀 Featured Projects
-
 🔍 Fake News Detection
+
 Detects misinformation using ML models
 
-😊 Mood Detection
+😊 Mood & Feeling Detection
+
 Emotion classification system
 
 🌐 Multilanguage Web App
+
 Responsive multilingual UI
 
-🧠 Contract Risk Env
-Reinforcement Learning simulation
+🧠 Contract Risk Negotiation Env
+
+Reinforcement Learning-based simulation
 
 🛠 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=linux,docker" /> </p>
-📊 GitHub Stats
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,sql,git,github,vscode" /> <br><br> <img src="https://skillicons.dev/icons?i=linux,docker" /> </p>
+📊 GitHub Statistics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nensii21&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=nensii21&theme=tokyonight" /> </p>
 🌍 Let's Connect
 <p align="center"> 📧 nancypatel016@gmail.com <br> 🔗 https://linkedin.com/in/nensi-patel-1121n <br> 📍 India </p> ```
