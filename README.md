@@ -40,25 +40,48 @@ print(me.mindset())
 
 ```
 
-🏆 Open Source Contributions
-Project	Contribution
-sktime	Bug fixes & improvements (ESoC)
+## 🏆 Open Source Contributions
+
+| Organization | Contribution |
+|-------------|-------------|
+| sktime | Bug fixes & improvements (ESoC) |
 
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-🔍 Fake News Detection
-Detects misinformation using ML models
+### 🧩 sktime — Open Source Contribution (ESoC)  
+Contributed to time-series forecasting library by fixing bugs and improving functionality.  
+🔗 https://github.com/sktime/sktime 
 
-😊 Mood & Feeling Detection
-Emotion classification system
+**Tech:** `Python` • `Time Series` • `Open Source`  
 
-🌐 Multilanguage Web App
-Responsive multilingual UI
+---
 
+### 🔍 Fake News Detection — ML Classification System  
+Detects misinformation using machine learning models.  
 
-🧠 Contract Risk Negotiation Env
-Reinforcement Learning-based simulation
+**Tech:** `Python` • `NLP` • `Machine Learning`  
+
+---
+
+### 😊 Mood & Feeling Detection — Emotion Classification  
+Emotion classification system for analyzing user sentiment.  
+
+**Tech:** `Python` • `Machine Learning`  
+
+---
+
+### 🌐 Multilanguage Web App — Responsive UI  
+Multi-language responsive web application with clean UI.  
+
+**Tech:** `TypeScript` • `Frontend`  
+
+---
+
+### 🧠 Contract Risk Negotiation Env — RL Simulation  
+Reinforcement Learning-based simulation for decision making.  
+
+**Tech:** `Python` • `Reinforcement Learning`  
 
 
 ## 🛠 Tech Stack
@@ -87,8 +110,10 @@ Reinforcement Learning-based simulation
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
 📊 GitHub Statistics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nensii21&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=nensii21&theme=tokyonight" /> </p>
+
 
 🌍 Let's Connect
 <p align="center"> 📧 nancypatel016@gmail.com <br>
