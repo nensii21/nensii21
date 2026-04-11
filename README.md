@@ -67,10 +67,9 @@ Tech: Python RL
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nensii21&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nensii21&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nensii21&theme=default)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=nensii21)
 
 🌍 Let's Connect
 📧 Email: nancypatel016@gmail.com
