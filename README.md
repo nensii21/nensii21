@@ -19,7 +19,7 @@
 ## 🔗 About Me
 
 ML Engineer in progress building real-world systems using AI & Machine Learning.  
-Contributor at **sktime (ESoC)** and focused on research-driven solutions.
+Contributor at **sktime (ESoC)** **GSsoc2026** and focused on research-driven solutions.
 
 ```python
 class NensiPatel:
@@ -46,9 +46,17 @@ print(me.mindset())
 | Organization | Contribution |
 |-------------|-------------|
 | sktime | Bug fixes & improvements (ESoC) |
+| Gssoc (2026) | Python & Artificial & Machine Learning|
 
 
 ## Featured Projects
+
+### [Gssoc 2026 - Open Source Contribution](https://github.com/nensii21/AI-dev-assistant)
+
+Contributed to improving Docker container security by implementing non-root user execution in the AI-dev-assistant project under GSSoC 2026.
+Fixed a security vulnerability caused by missing USER directives in Dockerfiles and validated the fix through successful Docker builds and FastAPI container testing.
+
+Worked with FastAPI, Docker, container security best practices, and open-source collaboration workflows including forks, branches, commits, and pull requests.
 
 ### [sktime — Open Source Contribution (ESoC)](https://github.com/sktime/sktime)
 
