@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nensi Priyankkumar Patel 👋</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=ML+Engineer+in+Progress;AI+Research+Enthusiast;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=ML+Engineer+in+Progress;AI+Research+Enthusiast;Open+Source+Contributor;GSsoc+2026+Contributor"/>
 </h3>
 
 <p align="center">
@@ -26,6 +26,7 @@ class NensiPatel:
     def __init__(self):
         self.location = "India"
         self.focus = [
+            "GSsoc 2026",
             "AI/ML Research",
             "Open Source @ sktime (ESoC)",
             "Real-world ML systems"
