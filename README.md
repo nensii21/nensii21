@@ -129,9 +129,15 @@ Tech: `TypeScript` • `Frontend` • `UI/UX`
 📊 GitHub Statistics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nensii21&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=nensii21&theme=tokyonight" /> </p>
 
+<p align="center">"When something is important enough, you do it even if the odds are not in your favor."
+— Elon Musk</p>
+
 
 🌍 Let's Connect
 <p align="center"> 📧 nancypatel016@gmail.com <br>
   🔗 https://linkedin.com/in/nensi-patel-1121n <br> 
   📍 India 
 </p> 
+
+
+             
