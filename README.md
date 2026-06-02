@@ -131,6 +131,8 @@ Tech: `TypeScript` • `Frontend` • `UI/UX`
   📍 India 
 </p> 
 
+⭐️ Feel free to follow me - I’d really appreciate your support!  
+
 
 
 
