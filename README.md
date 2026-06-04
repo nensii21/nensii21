@@ -121,9 +121,15 @@ Tech: `TypeScript` • `Frontend` • `UI/UX`
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nensii21&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=nensii21&theme=tokyonight" /> </p>
+<h2>📊 GitHub Statistics</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nensii21&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nensii21&theme=tokyonight" />
+</p>
 
 🌍 Let's Connect
 <p align="center"> 📧 nancypatel016@gmail.com <br>
