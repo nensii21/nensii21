@@ -19,7 +19,7 @@
 ## 🔗 About Me
 
 ML Engineer in progress building real-world systems using AI & Machine Learning.  
-Contributor at **sktime (ESoC)** **GSsoc2026** and focused on research-driven solutions.
+Contributor at **sktime (ESoC)** , **GSsoc2026** and focused on research-driven solutions.
 
 ```python
 class NensiPatel:
