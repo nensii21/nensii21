@@ -136,11 +136,9 @@ Tech: `TypeScript` • `Frontend` • `UI/UX`
   <img src="https://streak-stats.demolab.com?user=nensii21&theme=github-dark-blue&hide_border=true" />
 </p>
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy-git-masterrstaa-rickstaa.vercel.app/?username=nensii21&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
+[![An image of @nensii21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nensii21)](https://holopin.io/@nensii21)
 
 🌍 Let's Connect
 <p align="center"> 📧 nancypatel016@gmail.com <br>
