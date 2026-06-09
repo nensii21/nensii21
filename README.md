@@ -136,10 +136,10 @@ Tech: `TypeScript` • `Frontend` • `UI/UX`
   <img src="https://streak-stats.demolab.com?user=nensii21&theme=github-dark-blue&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nensii21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://github-profile-trophy-git-masterrstaa-rickstaa.vercel.app/?username=nensii21&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 🌍 Let's Connect
