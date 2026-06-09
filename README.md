@@ -120,18 +120,18 @@ Tech: `TypeScript` • `Frontend` • `UI/UX`
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nensii21&show_icons=true&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nensii21&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nensii21&layout=compact&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nensii21&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nensii21&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nensii21&theme=github_dark" />
 </p>
 
 🌍 Let's Connect
