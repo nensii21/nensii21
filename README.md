@@ -136,10 +136,6 @@ Tech: `TypeScript` • `Frontend` • `UI/UX`
   <img src="https://streak-stats.demolab.com?user=nensii21&theme=github-dark-blue&hide_border=true" />
 </p>
 
-## 🏆 Achievements
-
-[![An image of @nensii21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nensii21)](https://holopin.io/@nensii21)
-
 🌍 Let's Connect
 <p align="center"> 📧 nancypatel016@gmail.com <br>
   🔗 https://linkedin.com/in/nensi-patel-1121n <br> 
