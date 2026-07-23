@@ -143,10 +143,15 @@ Tech: `TypeScript` • `Frontend` • `UI/UX`
 </p> 
 
 🔭 I’m currently working on Data Science Mentorship Program
+
 🌱 I’m currently learning SQL
+
 👯 I’m looking to collaborate on Deep Learning
+
 💬 Ask me about Machine Learning, Deep Learning and NLP
+
 📫 How to reach me: nancypatel016@gmail.com
+
 😄 Happy Learning
 
 ⭐️ Feel free to follow me - I’d really appreciate your support!  
