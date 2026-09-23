@@ -1,22 +1,27 @@
-# Nensi Priyankkumar Patel
+<h1 align="center">Nensi Priyankkumar Patel</h1>
 
-### AI/ML Engineer | Data Science | Machine Learning | Open Source
+<p align="center">
+  <b>AI/ML Engineer | Data Science | Machine Learning | Open Source</b>
+</p>
 
-[LinkedIn](https://linkedin.com/in/nensi-patel-1121n) ·
-[GitHub](https://github.com/nensii21) ·
-[Email](mailto:nancypatel016@gmail.com)
+<p align="center">
+  <a href="https://github.com/nensii21">GitHub</a> •
+  <a href="https://linkedin.com/in/nensi-patel-1121n">LinkedIn</a> •
+  <a href="mailto:nancypatel016@gmail.com">Email</a>
+</p>
 
 ---
 
 ## Profile
 
-AI/ML engineering student focused on building practical machine learning systems, data-driven applications, and reliable software infrastructure.
+AI/ML undergraduate focused on building practical machine learning systems, data-driven applications, and reliable software infrastructure.
 
-My work spans machine learning, natural language processing, reinforcement learning, time-series systems, backend APIs, containerization, CI/CD, and open-source development.
+My work spans machine learning, NLP, reinforcement learning, time-series analysis, backend development, containerization, CI/CD, and open-source engineering.
 
-Currently pursuing B.Tech in Computer Science & Engineering (AI/ML) at Uka Tarsadia University with a GPA of 9.7.
+I have contributed to production-oriented open-source projects and participated in large-scale collaborative development through GSSoC and ECSoC. I also served as a **Project Admin for Elite Coders Summer of Code (ECSoC) 2026**, where I was **ranked #5 among 86 Project Admins**.
 
-**Primary interests:** Machine Learning, Data Science, AI Research, NLP, Reinforcement Learning, Time Series, and ML Systems.
+**Education:** B.Tech in Computer Science & Engineering (AI/ML), Uka Tarsadia University  
+**GPA:** 9.7
 
 ---
 
@@ -24,45 +29,64 @@ Currently pursuing B.Tech in Computer Science & Engineering (AI/ML) at Uka Tarsa
 
 ### AI/ML Intern — Tenacious Techies
 
-Worked on AI/ML and application development projects involving:
+Worked on AI/ML and software engineering projects involving:
 
-- Machine learning and AI-assisted application development
-- Prompt engineering and AI integration
+- Machine learning and AI application development
+- Prompt engineering
 - Chatbot backend APIs
+- API integration and backend development
 - Multilingual web applications
 - React.js and Tailwind CSS
-- API integration and backend development
-- AI-assisted software development workflows
+- AI-assisted development workflows
 
 ---
 
 ## Open Source
 
-### Elite Coders Summer of Code (ECSoC) 2026
+### Elite Coders Summer of Code — ECSoC 2026
 
-**Project Admin & Contributor**
+**Project Admin | Ranked #5 / 86 Project Admins**
 
-- 58 merged pull requests
-- Contributions across 14 open-source projects
-- 1,673 XP earned
-- Reviewed and collaborated on contributor submissions
-- Worked with GitHub issues, branches, pull requests, reviews, and project workflows
-- Supported contributors and participated in open-source project administration
+Served as a Project Admin responsible for supporting open-source projects and contributors throughout the program.
 
-### GirlScript Summer of Code (GSSoC) 2026
+- Coordinated with contributors across multiple projects
+- Reviewed and evaluated contributions
+- Worked with project repositories, issues, pull requests, and development workflows
+- Supported contributors with technical and project-level guidance
+- Participated in repository-level development and maintenance
 
-**Open Source Contributor**
-
-Contributed to projects involving Python, AI/ML, backend development, Docker, security, testing, and documentation.
+---
 
 ### sktime
 
 **Open Source Contributor**
 
-Contributed to the sktime time-series machine learning ecosystem through bug fixes, improvements, testing, and repository-level development.
+Contributed to `sktime`, an open-source Python framework for time-series machine learning.
 
-Repository:
-https://github.com/sktime/sktime
+Areas of contribution included:
+
+- Bug fixes and improvements
+- Forecasting components
+- Testing and validation
+- Repository maintenance
+- Issue and pull-request based development
+
+**Technologies:** Python, Time Series, Machine Learning, Git
+
+---
+
+### GirlScript Summer of Code — GSSoC 2026
+
+Contributed to open-source projects involving:
+
+- Python
+- Artificial Intelligence
+- Machine Learning
+- Backend development
+- Docker
+- Security
+- Testing
+- Documentation
 
 ---
 
@@ -70,25 +94,43 @@ https://github.com/sktime/sktime
 
 ### Contract Risk Negotiation Environment
 
-**Reinforcement Learning · AI Agents · FastAPI · Docker**
+<a href="https://github.com/nensii21/contract-risk-negotiation-env">
+Repository
+</a>
 
-[Repository](https://github.com/nensii21/contract-risk-negotiation-env)
+Developed a reinforcement learning environment for modeling contract negotiation under uncertainty.
 
-Developed an environment for modeling contract negotiation under uncertainty.
+The environment represents contract-risk scenarios and enables agents to reason about risk and negotiation decisions within a simulated environment.
 
-The system provides a structured environment for risk-aware decision-making around contract clauses and negotiation scenarios.
+**Technologies:** Python, Reinforcement Learning, MDP, FastAPI, Docker
 
-**Technologies:** Python, FastAPI, Reinforcement Learning, MDP, Simulation, Docker
+---
+
+### SecuScan — Security & CI Engineering
+
+Contributed to a security-focused open-source project involving backend testing, CI infrastructure, runtime compatibility, and credential-vault isolation.
+
+Key engineering work included:
+
+- Separating backend unit and integration test workflows
+- Adding Python and Node.js runtime matrix coverage
+- Improving CI reliability
+- Implementing credential-vault owner isolation
+- Adding cross-owner security tests
+- Adding database constraints for ownership isolation
+- Validating changes through automated testing
+
+**Technologies:** Python, Pytest, FastAPI, GitHub Actions, Docker, SQL, CI/CD
 
 ---
 
 ### Fake News Detection
 
-**NLP · Machine Learning · Classification**
+<a href="https://github.com/nensii21/fake-news-detection">
+Repository
+</a>
 
-[Repository](https://github.com/nensii21/fake-news-detection)
-
-Developed a machine learning pipeline for misinformation detection using natural language processing and supervised classification techniques.
+Machine learning pipeline for misinformation detection using NLP-based feature extraction and classification techniques.
 
 **Technologies:** Python, NLP, Scikit-learn, Machine Learning
 
@@ -96,11 +138,11 @@ Developed a machine learning pipeline for misinformation detection using natural
 
 ### Mood & Emotion Detection
 
-**NLP · Text Classification · Machine Learning**
+<a href="https://github.com/nensii21/mood-detection">
+Repository
+</a>
 
-[Repository](https://github.com/nensii21/mood-detection)
-
-Developed a text-based emotion classification system for identifying emotional patterns from user input.
+Text classification system for detecting emotional patterns from textual input using natural language processing techniques.
 
 **Technologies:** Python, NLP, Machine Learning, Text Classification
 
@@ -108,34 +150,13 @@ Developed a text-based emotion classification system for identifying emotional p
 
 ### Multilingual Landing Page
 
-**React · TypeScript · Tailwind CSS**
+<a href="https://github.com/nensii21/multilanguage-landingpage">
+Repository
+</a>
 
-[Repository](https://github.com/nensii21/multilanguage-landingpage)
-
-Developed a responsive multilingual web application with a scalable frontend structure and multilingual user experience.
+Responsive multilingual web application developed with a scalable frontend architecture.
 
 **Technologies:** TypeScript, React, Tailwind CSS
-
----
-
-## Engineering & Open Source Contributions
-
-### SecuScan
-
-Contributed to backend security, automated testing, and CI infrastructure.
-
-Key work included:
-
-- Splitting backend CI into unit and integration test jobs
-- Adding Python runtime matrix coverage
-- Adding Node.js runtime coverage
-- Improving CI workflow reliability
-- Implementing credential-vault owner isolation
-- Adding cross-owner isolation tests
-- Updating database constraints and migrations
-- Validating changes through automated tests
-
-**Technologies:** Python, FastAPI, Pytest, GitHub Actions, Docker, SQL, CI/CD
 
 ---
 
@@ -143,65 +164,36 @@ Key work included:
 
 ### Machine Learning & AI
 
-Python · Scikit-learn · TensorFlow · PyTorch · NLP ·
-Reinforcement Learning · Time Series · Predictive Modeling ·
-Machine Learning
+`Machine Learning` `Deep Learning` `NLP` `Reinforcement Learning` `Time Series` `Predictive Modeling`
+
+### Programming & Data
+
+`Python` `SQL` `C` `C++` `JavaScript`
 
 ### Data Science
 
-Pandas · NumPy · Matplotlib · Seaborn · Jupyter · SQL ·
-Data Analysis · Statistical Modeling
+`Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn` `Jupyter`
 
-### Backend & APIs
+### Frameworks & Infrastructure
 
-FastAPI · REST APIs · Python · API Integration
+`FastAPI` `Docker` `Git` `GitHub Actions` `Linux`
 
-### Engineering & Infrastructure
+### Development Practices
 
-Docker · Git · GitHub Actions · Linux · CI/CD · Testing
-
-### Development
-
-C · C++ · Python · SQL · JavaScript · TypeScript · React ·
-Tailwind CSS
-
----
-
-## Education
-
-### Uka Tarsadia University
-
-**B.Tech — Computer Science & Engineering (AI/ML)**
-
-GPA: **9.7**
+`REST APIs` `Testing` `CI/CD` `Open Source Development` `Git Workflows`
 
 ---
 
 ## Certifications & Programs
 
-- Google for Startups — Prompt to Prototype
+- Python — Red & White Multimedia Education
+- C & C++ — Red & White Multimedia Education
 - Tata GenAI Powered Data Analytics Job Simulation
-- Python Certification — Red & White Multimedia Education
-- C & C++ Certification — Red & White Multimedia Education
+- Google for Startups — Prompt to Prototype
 
 ---
 
-## Areas of Interest
-
-- Machine Learning Engineering
-- Data Science
-- Artificial Intelligence
-- Natural Language Processing
-- Reinforcement Learning
-- Time-Series Machine Learning
-- AI Research
-- ML Systems
-- Data Analytics
-- Open Source Software
-
----
-
-## GitHub
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nensii21&theme=github_dark" />
@@ -212,12 +204,14 @@ GPA: **9.7**
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nensii21&theme=github_dark" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nensii21&theme=github-dark-blue&hide_border=true" />
+</p>
+
 ---
 
 ## Contact
 
-**Email:** nancypatel016@gmail.com
-
-**LinkedIn:** https://linkedin.com/in/nensi-patel-1121n
-
+**Email:** nancypatel016@gmail.com  
+**LinkedIn:** https://linkedin.com/in/nensi-patel-1121n  
 **GitHub:** https://github.com/nensii21
