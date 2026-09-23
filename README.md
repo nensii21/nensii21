@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nensi Priyankkumar Patel</h1>
 
 <h3 align="center">
-AI/ML Student • ML Engineer in Progress • Open Source Contributor • Data Science Enthusiast
+AI/ML Student • ML Engineer in Progress • Data Science Enthusiast • Open Source Contributor
 </h3>
 
 <p align="center">
@@ -21,17 +21,16 @@ AI/ML Student • ML Engineer in Progress • Open Source Contributor • Data S
 
 ## About Me
 
-I'm an **AI/ML student and aspiring ML Engineer / Data Scientist** focused on building practical machine learning systems, analytical tools, and AI-powered applications.
+I'm an **AI/ML student and aspiring ML Engineer / Data Scientist** focused on building practical machine learning systems, intelligent applications, and data-driven solutions.
 
-* B.Tech CSE (AI/ML) student at **Uka Tarsadia University**
-* GPA: **9.7**
-* AI/ML Intern at **Tenacious Techies**
-* **ECSoC 2026 Project Admin**
-* **GSSoC Contributor**
-* Open-source contributor to **sktime**
-* Interested in **Machine Learning, NLP, Data Science, AI Research, and ML Systems**
-* Building projects that connect machine learning with real-world applications
-* Currently exploring research-oriented ML systems and open-source development
+- B.Tech CSE (AI/ML) student at **Uka Tarsadia University**
+- GPA: **9.7**
+- AI/ML Intern at **Tenacious Techies**
+- **ECSoC 2026 Project Admin**
+- **GSSoC 2026 Contributor**
+- Open-source contributor at **sktime**
+- Interested in **Machine Learning, Data Science, NLP, AI Research, Reinforcement Learning, and ML Systems**
+- Experienced with Python, data analysis, backend APIs, Docker, CI/CD, and open-source workflows
 
 ```python
 class NensiPatel:
@@ -44,7 +43,8 @@ class NensiPatel:
             "Machine Learning",
             "Data Science",
             "AI Research",
-            "NLP",
+            "Natural Language Processing",
+            "Reinforcement Learning",
             "ML Systems",
             "Open Source"
         ]
@@ -65,175 +65,125 @@ me = NensiPatel()
 print(me.mindset())
 ```
 
----
+Open Source & Community
+Elite Coders Summer of Code — ECSoC 2026
 
-## Open Source
+Served as an ECSoC 2026 Project Admin and contributed to open-source development across multiple projects.
 
-### ECSoC 2026
+ECSoC 2026 Contribution
+58 merged Pull Requests
+14 open-source projects
+1,673 XP
+Worked across multiple repositories and technology stacks
+Reviewed, developed, tested, and collaborated on open-source contributions
+Worked with contributors and project workflows as a Project Admin
+GirlScript Summer of Code — GSSoC 2026
 
-Completed **Elite Coders Summer of Code 2026** with:
+Contributed to open-source projects involving:
 
-* **58 merged Pull Requests**
-* **14 open-source projects**
-* **1,673 XP**
-* Contributions across multiple repositories and technology stacks
-* Experience with issues, branches, reviews, pull requests, CI workflows, documentation, and collaborative development
+Python
+Artificial Intelligence
+Machine Learning
+Backend development
+Docker
+Security
+Documentation
+Git and GitHub workflows
+sktime — Open Source Contribution
 
-Also contributed as an **ECSoC Project Admin**, working with contributors, projects, reviews, and open-source workflows.
+Contributed to sktime, a production-grade Python library for time-series machine learning.
 
-### GSSoC
+Contributions involved:
 
-Contributed to open-source projects through **GirlScript Summer of Code 2026**, including work involving Python, AI/ML, Docker, security, and backend systems.
+Bug fixes
+Improvements to forecasting components
+Testing and validation
+Repository maintenance
+Git/GitHub collaboration
+Pull requests and issue-based development
+Featured Projects
+Contract Risk Negotiation Environment
+<a href="https://github.com/nensii21/contract-risk-negotiation-env"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-### sktime
+An AI environment designed to model contract negotiation and risk-aware decision-making under uncertainty.
 
-Contributed to **sktime**, a production-grade Python library for time-series machine learning.
+The environment enables AI agents to analyze contract clauses, identify potential risks, classify risk types, and make decisions within a simulated negotiation environment.
 
-Work included:
+Tech Stack
 
-* Bug fixes
-* Forecasting-related improvements
-* Repository development
-* Testing and validation
-* Collaborative open-source workflows
+Python FastAPI Reinforcement Learning MDP Simulation Docker
 
----
+SecuScan — Security & CI Contributions
 
-## Featured Projects
+Worked on an open-source security-focused project involving backend testing, CI workflows, runtime compatibility, and credential-vault security.
 
-### AI Dev Assistant — Docker Security
+Key contributions included:
 
-<a href="https://github.com/nensii21/AI-dev-assistant">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
-</a>
+Backend CI restructuring
+Unit and integration test separation
+Python runtime matrix coverage
+Node.js runtime matrix coverage
+CI workflow improvements
+Credential vault owner isolation
+Cross-owner security tests
+Database constraints and migration work
+Testing and validation
 
-Contributed to improving container security by implementing **non-root user execution** in Dockerfiles.
+Tech Stack
 
-* Identified insecure container configuration
-* Added appropriate `USER` directives
-* Validated Docker builds
-* Tested FastAPI container execution
-* Followed open-source contribution workflows
+Python FastAPI Pytest GitHub Actions Docker CI/CD Security
 
-**Tech:** `Python` `FastAPI` `Docker` `Security`
+Fake News Detection
+<a href="https://github.com/nensii21/fake-news-detection"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
----
+Machine learning system for detecting misinformation using natural language processing and classification techniques.
 
-### Contract Risk Negotiation Environment
+Tech Stack
 
-<a href="https://github.com/nensii21/contract-risk-negotiation-env">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
-</a>
+Python NLP Scikit-learn Machine Learning
 
-Developed an AI environment for **contract-risk negotiation under uncertainty**.
+Mood & Emotion Detection
+<a href="https://github.com/nensii21/mood-detection"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-The system models contract clauses, identifies potential risks, classifies risk types, and supports risk-aware decision-making through an environment designed for AI agents.
+NLP-based machine learning system designed to classify emotions from textual input.
 
-**Tech:** `Python` `FastAPI` `Reinforcement Learning` `MDP` `Simulation` `Docker`
+Tech Stack
 
----
+Python NLP Machine Learning Text Classification
 
-### Fake News Detection
+Multilingual Landing Page
+<a href="https://github.com/nensii21/multilanguage-landingpage"> <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-<a href="https://github.com/nensii21/fake-news-detection">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
-</a>
+Responsive multilingual web application developed with a scalable frontend architecture.
 
-Built a machine learning pipeline for detecting misinformation using natural language processing and classification techniques.
+Tech Stack
 
-**Tech:** `Python` `NLP` `Scikit-learn` `Machine Learning`
+TypeScript React Tailwind CSS Frontend UI/UX
 
----
+Industry Experience
+AI/ML Intern — Tenacious Techies
 
-### Mood & Emotion Detection
+Worked on practical AI/ML and software development projects involving:
 
-<a href="https://github.com/nensii21/mood-detection">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-Developed an NLP-based classification system for analyzing textual input and identifying emotional patterns.
-
-**Tech:** `Python` `NLP` `Machine Learning`
-
----
-
-### Multilingual Landing Page
-
-<a href="https://github.com/nensii21/multilanguage-landingpage">
-<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-Developed a responsive multilingual web application with scalable frontend architecture and multilingual user experience.
-
-**Tech:** `TypeScript` `React` `Frontend` `UI/UX`
-
----
-
-## Industry Experience
-
-### AI/ML Intern — Tenacious Techies
-
-Worked on practical AI/ML and web-based systems, including:
-
-* AI/ML application development
-* Prompt engineering
-* Chatbot backend APIs
-* Multilingual web applications
-* React.js interfaces
-* Tailwind CSS
-* API integration
-* AI-assisted development workflows
-
----
-
-## Technical Skills
-
-### Programming & Data
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### Machine Learning & AI
-
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ML-000000?style=for-the-badge"/>
-</p>
-
-### Data Science & Visualization
-
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
-### Backend, Infrastructure & Development
-
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-## Areas of Interest
-
-```text
+AI/ML application development
+Prompt engineering
+Chatbot backend APIs
+Multilingual web applications
+React.js
+Tailwind CSS
+API integration
+AI-assisted development
+Backend integration
+Technical Skills
+Programming
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
+Machine Learning & AI
+<p> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge"/> <img src="https://img.shields.io/badge/Reinforcement%20Learning-000000?style=for-the-badge"/> </p>
+Data Science & Analytics
+<p> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/> </p>
+Backend & Infrastructure
+<p> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </p>
+Areas of Interest
 Machine Learning
 Artificial Intelligence
 Data Science
@@ -245,53 +195,10 @@ ML Systems
 Data Analysis
 Predictive Modeling
 Open Source
-```
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nensii21&theme=github_dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nensii21&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nensii21&theme=github_dark"/>
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nensii21&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nensii21&theme=github-compact&hide_border=true"/>
-</p>
-
----
-
-## Connect
-
-<p align="center">
-  <a href="mailto:nancypatel016@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/nensi-patel-1121n">LinkedIn</a> •
-  <a href="https://github.com/nensii21">GitHub</a>
-</p>
-
-<p align="center">
-  India
-</p>
-
----
-
-<p align="center">
-  <b>Building with data. Learning through research. Contributing through open source.</b>
-</p>
+GitHub Statistics
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nensii21&theme=github_dark"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nensii21&theme=github_dark"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nensii21&theme=github_dark"/> </p>
+GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=nensii21&theme=github-dark-blue&hide_border=true"/> </p>
+Connect With Me
+<p align="center"> <a href="mailto:nancypatel016@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/nensi-patel-1121n"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/nensii21"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <p align="center"> India </p>
+<p align="center"> <b>Building with data. Exploring AI. Contributing to open source.</b> </p> ```
