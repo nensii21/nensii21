@@ -201,4 +201,4 @@ GitHub Streak
 <p align="center"> <img src="https://streak-stats.demolab.com?user=nensii21&theme=github-dark-blue&hide_border=true"/> </p>
 Connect With Me
 <p align="center"> <a href="mailto:nancypatel016@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/nensi-patel-1121n"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/nensii21"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p> <p align="center"> India </p>
-<p align="center"> <b>Building with data. Exploring AI. Contributing to open source.</b> </p> ```
+<p align="center"> <b>Building with data. Exploring AI. Contributing to open source.</b> </p> 
